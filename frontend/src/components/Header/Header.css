@@ -46,4 +46,7 @@
   .header-contents p {
     display: none;
   }
+  .header-contents button {
+    padding: 2vw 4vw;
+  }
 }
