@@ -43,7 +43,7 @@ const PlaceOrder = () => {
               <b>${getTotalCartAmount() + 2}</b>
             </div>
           </div>
-          <button>PROCEED TO PAYMENT</button>
+          <button className="cart-total-button">PROCEED TO PAYMENT</button>
         </div>
       </div>
     </form>
